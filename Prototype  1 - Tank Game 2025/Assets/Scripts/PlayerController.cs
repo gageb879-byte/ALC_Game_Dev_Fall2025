@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     
     public Rigidbody playerRB;
 
-    // Update is called once per frame
+    // Update is called once per framee
     void Update()
     {
         hInput = Input.GetAxis("Horizontal");
