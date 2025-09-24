@@ -377,4 +377,4 @@ MonoBehaviour:
   clickToPop: 3
   scaleToIncrease: 0.1
   scoreToGive: 25
-  popEffect: {fileID: 0}
+  popEffect: {fileID: 2192578676431767072, guid: a1b1af3b5c25f574699064e27c79e4c5, type: 3}
